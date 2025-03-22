@@ -2,9 +2,9 @@
 class Nail < Formula
   desc "Noroutine Application InterLink"
   homepage "https://nail.lane.id"
-  url "https://fs.noroutine.me/attic/dav/noroutine-nail-0.0.15.tgz"
-  sha256 "9b9cbace71c4c4876c34a77a75856b166ab39a0d9a083320799ad1e47825fe80" 
-  version "0.0.15"
+  url "https://fs.noroutine.me/attic/dav/noroutine-nail-0.0.16.tgz"
+  sha256 "76f06792a986337d902b941c6177989e56f2d5250af68b8adf81c0622c1f471b"
+  version "0.0.16"
   
   depends_on "node"
   
